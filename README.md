@@ -1,2 +1,3 @@
 # Credit_card_financial_Dashboard
-PowerBI Dashboard
+Credit Card Trancaction and Customer Details Power BI Dashboard
+
